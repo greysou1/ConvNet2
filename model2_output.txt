@@ -1,0 +1,192 @@
+================================ Training model 2 ================================
+Increase the number of conv layers (5) in the above network and train again.
+
+learning_rate = 0.001
+batch_size = 32
+num_epochs = 30
+
+
+Train set (1/30): Average loss: 1.6147, Accuracy: 19779/50016 (40%)
+
+
+Test set (1/30): Average loss: 1.4061, Accuracy: 5014/10000 (50%)
+
+
+Train set (2/30): Average loss: 1.2482, Accuracy: 27203/50016 (54%)
+
+
+Test set (2/30): Average loss: 1.3600, Accuracy: 5281/10000 (53%)
+
+Training epoch: (3/30) batch: (1563/1563)
+Train set (3/30): Average loss: 1.0985, Accuracy: 30218/50016 (60%)
+
+Testing epoch: (3/30) batch: (313/313)
+Test set (3/30): Average loss: 1.2398, Accuracy: 5610/10000 (56%)
+
+
+Train set (4/30): Average loss: 1.0012, Accuracy: 32208/50016 (64%)
+
+Testing epoch: (4/30) batch: (313/313)
+Test set (4/30): Average loss: 1.0140, Accuracy: 6474/10000 (65%)
+
+Training epoch: (5/30) batch: (1563/1563)
+Train set (5/30): Average loss: 0.9341, Accuracy: 33473/50016 (67%)
+
+Testing epoch: (5/30) batch: (313/313)
+Test set (5/30): Average loss: 1.0573, Accuracy: 6304/10000 (63%)
+
+
+Train set (6/30): Average loss: 0.8763, Accuracy: 34417/50016 (69%)
+
+Testing epoch: (6/30) batch: (313/313)
+Test set (6/30): Average loss: 0.9111, Accuracy: 6902/10000 (69%)
+
+
+Train set (7/30): Average loss: 0.8358, Accuracy: 35284/50016 (71%)
+
+Testing epoch: (7/30) batch: (313/313)
+Test set (7/30): Average loss: 0.9419, Accuracy: 6711/10000 (67%)
+
+
+Train set (8/30): Average loss: 0.8053, Accuracy: 35768/50016 (72%)
+
+Testing epoch: (8/30) batch: (313/313)
+Test set (8/30): Average loss: 0.8979, Accuracy: 6846/10000 (68%)
+
+Training epoch: (9/30) batch: (1563/1563)
+Train set (9/30): Average loss: 0.7791, Accuracy: 36205/50016 (72%)
+
+
+Test set (9/30): Average loss: 0.9540, Accuracy: 6642/10000 (66%)
+
+Training epoch: (10/30) batch: (1563/1563)
+Train set (10/30): Average loss: 0.7580, Accuracy: 36592/50016 (73%)
+
+Testing epoch: (10/30) batch: (313/313)
+Test set (10/30): Average loss: 0.8554, Accuracy: 7055/10000 (71%)
+
+Training epoch: (11/30) batch: (1563/1563)
+Train set (11/30): Average loss: 0.7351, Accuracy: 37000/50016 (74%)
+
+Testing epoch: (11/30) batch: (313/313)
+Test set (11/30): Average loss: 0.8480, Accuracy: 6994/10000 (70%)
+
+Training epoch: (12/30) batch: (1563/1563)
+Train set (12/30): Average loss: 0.7048, Accuracy: 37408/50016 (75%)
+
+Testing epoch: (12/30) batch: (313/313)
+Test set (12/30): Average loss: 0.9009, Accuracy: 6920/10000 (69%)
+
+Training epoch: (13/30) batch: (1563/1563)
+Train set (13/30): Average loss: 0.6960, Accuracy: 37723/50016 (75%)
+
+Testing epoch: (13/30) batch: (313/313)
+Test set (13/30): Average loss: 0.8064, Accuracy: 7233/10000 (72%)
+
+Training epoch: (14/30) batch: (1563/1563)
+Train set (14/30): Average loss: 0.6771, Accuracy: 38065/50016 (76%)
+
+
+Test set (14/30): Average loss: 0.8298, Accuracy: 7096/10000 (71%)
+
+
+Train set (15/30): Average loss: 0.6585, Accuracy: 38415/50016 (77%)
+
+Testing epoch: (15/30) batch: (313/313)
+Test set (15/30): Average loss: 0.7750, Accuracy: 7307/10000 (73%)
+
+
+Train set (16/30): Average loss: 0.6441, Accuracy: 38583/50016 (77%)
+
+
+Test set (16/30): Average loss: 0.8047, Accuracy: 7202/10000 (72%)
+
+Training epoch: (17/30) batch: (1563/1563)
+Train set (17/30): Average loss: 0.6358, Accuracy: 38720/50016 (77%)
+
+
+Test set (17/30): Average loss: 0.8202, Accuracy: 7142/10000 (71%)
+
+Training epoch: (18/30) batch: (1563/1563)
+Train set (18/30): Average loss: 0.6192, Accuracy: 39082/50016 (78%)
+
+
+Test set (18/30): Average loss: 0.7411, Accuracy: 7424/10000 (74%)
+
+Training epoch: (19/30) batch: (1563/1563)
+Train set (19/30): Average loss: 0.6111, Accuracy: 39161/50016 (78%)
+
+
+Test set (19/30): Average loss: 0.7494, Accuracy: 7460/10000 (75%)
+
+
+Train set (20/30): Average loss: 0.5928, Accuracy: 39488/50016 (79%)
+
+
+Test set (20/30): Average loss: 0.7495, Accuracy: 7402/10000 (74%)
+
+Training epoch: (21/30) batch: (1563/1563)
+Train set (21/30): Average loss: 0.5847, Accuracy: 39676/50016 (79%)
+
+Testing epoch: (21/30) batch: (313/313)
+Test set (21/30): Average loss: 0.7386, Accuracy: 7424/10000 (74%)
+
+
+Train set (22/30): Average loss: 0.5744, Accuracy: 39794/50016 (80%)
+
+
+Test set (22/30): Average loss: 0.7438, Accuracy: 7429/10000 (74%)
+
+Training epoch: (23/30) batch: (1563/1563)
+Train set (23/30): Average loss: 0.5678, Accuracy: 39868/50016 (80%)
+
+
+Test set (23/30): Average loss: 0.7436, Accuracy: 7424/10000 (74%)
+
+Training epoch: (24/30) batch: (1563/1563)
+Train set (24/30): Average loss: 0.5565, Accuracy: 40125/50016 (80%)
+
+
+Test set (24/30): Average loss: 0.7270, Accuracy: 7503/10000 (75%)
+
+Training epoch: (25/30) batch: (1563/1563)
+Train set (25/30): Average loss: 0.5424, Accuracy: 40367/50016 (81%)
+
+
+Test set (25/30): Average loss: 0.7204, Accuracy: 7511/10000 (75%)
+
+Training epoch: (26/30) batch: (1563/1563)
+Train set (26/30): Average loss: 0.5355, Accuracy: 40514/50016 (81%)
+
+Testing epoch: (26/30) batch: (313/313)
+Test set (26/30): Average loss: 0.7918, Accuracy: 7315/10000 (73%)
+
+
+Train set (27/30): Average loss: 0.5301, Accuracy: 40532/50016 (81%)
+
+
+Test set (27/30): Average loss: 0.7663, Accuracy: 7410/10000 (74%)
+
+
+Train set (28/30): Average loss: 0.5192, Accuracy: 40716/50016 (81%)
+
+Testing epoch: (28/30) batch: (313/313)
+Test set (28/30): Average loss: 0.7442, Accuracy: 7462/10000 (75%)
+
+
+Train set (29/30): Average loss: 0.5143, Accuracy: 40879/50016 (82%)
+
+Testing epoch: (29/30) batch: (313/313)
+Test set (29/30): Average loss: 0.7397, Accuracy: 7466/10000 (75%)
+
+
+Train set (30/30): Average loss: 0.5081, Accuracy: 40974/50016 (82%)
+
+
+Test set (30/30): Average loss: 0.7268, Accuracy: 7521/10000 (75%)
+
+
+
+Accuracy: 75.21%
+Training and evaluation finished
+================================================================================
